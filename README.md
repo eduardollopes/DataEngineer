@@ -25,7 +25,7 @@ Os logs de evolução do projeto podem ser encontrados pelo arquivo [log.xlsx](T
 ## Melhorias:
 Sugestão de melhorias:
 
-* Disparo de e-mails quando algum job acusar algum erro.
+* Disparo de e-mails quando algum job acusar erro.
 * Criar novas métricas para monitorar o processo de ingestão.
 * Orquestrar o job utilizando o Talend Administration Console (TAC).
 * Desenvolvimento de um PySpark para processamento e tratamento dos arquivos.
